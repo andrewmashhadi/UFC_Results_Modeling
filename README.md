@@ -1,2 +1,2 @@
-# UFC_Fight_Predictions
+# UFC_Results_Modeling
 Git repository for side project using historical UFC fight data. Predicting whether or not a fight will end in a KO/tKO or go the distance. Code that scrapes the data from the official UFC website http://www.ufcstats.com/statistics/events/completed is included as well.
